@@ -11,9 +11,6 @@ namespace DesafioPOO.Models
             Console.WriteLine($"Instalando o aplicativo {appName} no Nokia.");
         }
 
-        public int memoriaParaInstalar(int memoria, int memoriaUsada){
 
-            return 0;
-        }
     }
 }
